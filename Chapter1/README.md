@@ -1,4 +1,4 @@
-# Chapter 1
+## Chapter 1
 
 The notebooks contained in this folder contain the best practices for using TensorFlow, one of the most popular frameworks in machine learning areas.
 
