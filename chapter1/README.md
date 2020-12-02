@@ -6,6 +6,6 @@ The notebooks contained in this folder contain the best practices for using Tens
 
 1. Hello World and  practice exercise
 2. Callbacks, MNIST Fashio and MNIST
-3. openCv and manual conv
+3. openCv , manual conv and CNN
 
 
